@@ -582,16 +582,11 @@ padding: 40px 0px;
     font-size: 14px;
     color: #555;
 }
-.box {
+.feedback_circle {
     position: absolute;
-    bottom: -20px;
+    bottom: 0px;
     left: 50%;
     transform: translateX(-50%);
-    height: 15px;
-    width: 15px;
-    transform: rotate(45deg);
-    background: #f1f1f1;
-    z-index: 9999999;
 }
 /* Feedback Part End */
 
